@@ -28,7 +28,6 @@ Hi there! 👋 I'm passionate about mobile and web development. Currently explor
 - Python 
 - C, C++
 - Dart
-- PHP
 - Javascript 
 
 
