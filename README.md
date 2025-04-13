@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👨‍💻 My Development Portfolio
 
-<!--
-**amitpandey00/amitpandey00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi there! 👋 I'm passionate about mobile and web development. Currently exploring the vast world of Flutter while having a strong foundation in Xamarin Forms and native Android development with Java and Kotlin. On the web side, I enjoy working with HTML, CSS, JS, Note.js, and dabbling in React JS.
 
-Here are some ideas to get you started:
+- 📫  Reach me - **amit07pandey20@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **keep the night shift switched on at all times**
+
+
+## 📱 Mobile Development
+- Xamarin Forms
+- Android (Java, Kotlin)
+- Flutter
+
+## 🌐 Web Development
+- HTML, CSS, JS
+- Basic understanding of React JS
+
+## 🚀 Backend
+- MySQL
+- MongoDB
+- Node.js, Express
+
+## 💻 Programming Languages
+- C#
+- Java
+- Python 
+- C, C++
+- Dart
+- PHP
+- Javascript 
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitpandey00&show_icons=true&locale=en&layout=compact" alt="amitpandey00" /></p>
